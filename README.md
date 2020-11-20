@@ -1,4 +1,4 @@
-# course-content
+# course-content-week1
 
 ### To view the content of this course go to "Projects" and click on "Course content".
 
